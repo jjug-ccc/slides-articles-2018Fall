@@ -43,8 +43,9 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 ## LT(Lightning Talk)
 
+- [日本にもあるサーマータイム問題](https://qiita.com/m_mouri/items/10bd97f0dd38a966bce2) 毛利元彦
 - [Spring Web Flux を簡単に書きたい](https://www.slideshare.net/kentaromaeda581/writing-spring-webflux-more-esay-with-kotlin) 前多
-- [RESTful API (JAX-RS) 書くだけで仕様書も自動で作られていく話 with MicroProfile Open API](https://www.slideshare.net/KoheiSaito2/restful-api-jaxrs-with-microprofile-open-api) ソニーネットワークコミュニケーションズ株式会社 齋藤耕平
+- [RESTful API (JAX-RS)書くだけで仕様書も自動で作られていく話 with MicroProfile Open API](https://www.slideshare.net/KoheiSaito2/restful-api-jaxrs-with-microprofile-open-api) ソニーネットワークコミュニケーションズ株式会社 齋藤耕平
 
 ## 参加しましたブログ
 - [JJUG CCC 2018 Fall で発表しました](http://acro-engineer.hatenablog.com/entry/2018/12/17/110000) Taste of Tech Topics

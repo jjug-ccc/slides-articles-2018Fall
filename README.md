@@ -29,7 +29,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 ## 15:45-16:30
 - [【G+H】Migration Guide from Java 8 to Java 11](https://www.slideshare.net/YujiKubota/migration-guide-from-java-8-to-java-11-jjug) KUBOTA Yuji
-- [【M】普通のJavaエンジニアが、なぜ技術書を出版するに至ったか？](https://jjug-cfp.cfapps.io/submissions/21189608-ba5e-41fb-8bce-c7f904169fb3) 渡邉 一夫
+- [【M】普通のJavaエンジニアが、なぜ技術書を出版するに至ったか？](https://www.slideshare.net/navekazu/java-126056723) 株式会社オープントーン 渡邉一夫
 
 
 ## 16:45-17:30

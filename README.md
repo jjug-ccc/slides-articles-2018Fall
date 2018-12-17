@@ -18,6 +18,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 
 ## 14:30-15:15
+- [【A+B】エムスリーでのKotlinへの取り組み](https://speakerdeck.com/m3_engineering/jjug-ccc-2018fall-kotlin-in-m3) エムスリー株式会社 滝安、星川
 - [【E+F】 複雑なドメインに泥臭く立ち向かう](https://speakerdeck.com/sukun1899/fu-za-nadomeinnini-chou-kuli-tixiang-kau) 株式会社エスエムエス Koji Sudo
 
 ## 15:45-16:30

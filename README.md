@@ -20,6 +20,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 
 ## 13:30-14:15
+- [【M】（Javaから）Akkaハンズオン](https://www.slideshare.net/yugolf/akka-handson-with-java-125934401) TIS株式会社 前出祐吾
 
 
 ## 14:30-15:15

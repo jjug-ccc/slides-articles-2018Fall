@@ -16,10 +16,11 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 
 ## 12:00-12:45
-- [【C+D】思考停止しないアーキテクチャ設計](https://www.slideshare.net/kawasima/jjug-ccc-2018-fall) 川島義隆
+- [【C+D】これが私の（コミュニティでの）生きる道](https://speakerdeck.com/yangping0211/jjug-ccc-2018-fall) Youhei Shibata&まーや
 
 
 ## 13:30-14:15
+- [【E+F】思考停止しないアーキテクチャ設計](https://www.slideshare.net/kawasima/jjug-ccc-2018-fall) 川島義隆
 - [【M】（Javaから）Akkaハンズオン](https://www.slideshare.net/yugolf/akka-handson-with-java-125934401) TIS株式会社 前出祐吾
 
 

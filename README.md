@@ -38,8 +38,8 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [【M】WebARで作るJJUGロゴかDukeが飛び出るカード](https://www.slideshare.net/hfujikawa77/webar-duke) Hideyuki Fujikawa
 
 ## 17:45-18:30
+- [【A+B】GCを発生させないJVMとコーディングスタイル](https://www.slideshare.net/kenjikazumura/gcjvm) 数村憲治
 - [【C+D】Scala と Microservices でつくる 証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall) 株式会社FOLIO 村上拓也
-
 
 ## LT(Lightning Talk)
 

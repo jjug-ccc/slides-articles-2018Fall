@@ -5,6 +5,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [【E+F】 日本Javaユーザーグループ 年次総会](https://www.slideshare.net/jjug/java-2018-98886645) JJUG幹事
 
 ## 10:00-10:45
+- [【G+H】Spring Boot の Web アプリケーションを Docker に載せて AWS ECS で動かしている話](https://www.slideshare.net/JSUXDesign/spring-boot-web-docker-aws-ecs) 福嶋航
 - [【L】ふつうのJavaアプリ開発のための自動テスト戦略](https://speakerdeck.com/rshindo/jjug-ccc-2018-fall) 進藤遼
 - [【M】Pivotal認定講師によるSpring Framework 5.1ハンズオン！](https://qiita.com/suke_masa/items/44463518fdbbc13e0087) カサレアル 多田真敏
 

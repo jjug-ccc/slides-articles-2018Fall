@@ -74,7 +74,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [JJUG CCC 2018 Fall #jjug_ccc 参加しました](https://alek3.hatenablog.com/entry/2018/12/16/160219) 等身大から1割増し
 - [JJUG CCC 2018 Fall 参加報告](http://suzaku-tec.hatenadiary.jp/entry/2018/12/16/145207) エンターテイメント！！
 - [JJUG CCC 2018 (Winterでなく)Fall に参加してきた](https://mike-neck.hatenadiary.com/entry/jjug-ccc-2018-fall) mike-neckのブログ
--[JJUG CCC 2018 Fall](http://evgeniy.hatenablog.com/entry/2018/12/17/220233) EVGENIYの日記
+- [JJUG CCC 2018 Fall](http://evgeniy.hatenablog.com/entry/2018/12/17/220233) EVGENIYの日記
 - [JJUG CCC 2018 Fall( #jjug_ccc ) - セッション資料の一覧](http://d.hatena.ne.jp/chiheisen/20181215/1544897520) 地平線に行く
 
 

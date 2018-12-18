@@ -51,7 +51,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [【E+F】コードをどまんなかに据えた設計アプローチ](https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti) irof
 - [【G+H】200,000 Req/sec をさばく広告入札システムを支えるパフォーマンスチューニング術 ](https://www.slideshare.net/hiroiso/200000-reqsec) ウルシステムズ株式会社
 - [【I】GraphQL vs Traditional Rest API](https://www.slideshare.net/VladimirDejanovic2/graphql-vs-traditional-rest-api-geecon-prague-2018) Vladimir Dejanovic
-- [【M】WebARで作るJJUGロゴかDukeが飛び出るカード](https://www.slideshare.net/hfujikawa77/webar-duke) Hideyuki Fujikawa
+- [【M】WebARで作るJJUGロゴかDukeが飛び出るカード](https://www.slideshare.net/hfujikawa77/webar-duke-126078786) Hideyuki Fujikawa
 
 ## 17:45-18:30
 - [【A+B】GCを発生させないJVMとコーディングスタイル](https://www.slideshare.net/kenjikazumura/gcjvm) 数村憲治
@@ -65,12 +65,21 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 ## 参加しましたブログ
 - [JJUG CCC 2018 Fall で発表しました](http://acro-engineer.hatenablog.com/entry/2018/12/17/110000) Taste of Tech Topics
-- [JJUG CCC 2018 Fall」に行ってきました - 登壇編](https://mdstoy.hatenablog.com/entry/2018/12/17/001005) Toy と帽子と ADP BE
+- [「JJUG CCC 2018 Fall」に行ってきました - 登壇編](https://mdstoy.hatenablog.com/entry/2018/12/17/001005) Toy と帽子と ADP BE
+- [「JJUG CCC 2018 Fall」に行ってきました - 参加編](https://mdstoy.hatenablog.com/entry/2018/12/17/235639) Toy と帽子と ADP BE
 - [JJUG CCC 2018 Fallに行ってきました](https://takumon.com/2018/12/16/) Takumon blog
 - [JJUG CCC 2018 Fall 参加レポート](http://sunadiary.hatenablog.com/entry/2018/12/17/003904) 砂日記ばーじょん2.0
 - [JJUG ccc 2018 fall 行ってきました](http://msawady.hatenablog.com/entry/2018/12/16/235856) msawady’s learning memo
 - [「JJUG CCC 2018 Fall」に参加してきた。](http://do-m-gatoru.hatenablog.com/entry/2018/12/16/021919) 怒Ｍは思いつきでモノを言う
 - [JJUG CCC 2018 Fall #jjug_ccc 参加しました](https://alek3.hatenablog.com/entry/2018/12/16/160219) 等身大から1割増し
 - [JJUG CCC 2018 Fall 参加報告](http://suzaku-tec.hatenadiary.jp/entry/2018/12/16/145207) エンターテイメント！！
+- [JJUG CCC 2018 (Winterでなく)Fall に参加してきた](https://mike-neck.hatenadiary.com/entry/jjug-ccc-2018-fall) mike-neckのブログ
+-[JJUG CCC 2018 Fall](http://evgeniy.hatenablog.com/entry/2018/12/17/220233) EVGENIYの日記
 - [JJUG CCC 2018 Fall( #jjug_ccc ) - セッション資料の一覧](http://d.hatena.ne.jp/chiheisen/20181215/1544897520) 地平線に行く
+
+
+## togetter
+- [カサレアルのJJUG CCC 2018 Fall](https://togetter.com/li/1299277) 株式会社カサレアル(@PR_CASAREAL)さんのまとめ
+- [JJUG CCC 2018 Fall FOLIOスポンサーセッション『Scala とマイクロサービスでつくる証券会社とスタートアップ』#jjug_ccc #ccc_c7](https://togetter.com/li/1298910) Hiroshi(@itohiro73)さんのまとめ
+- [JJUG CCC 2018 Fall(#jjug_ccc)](https://togetter.com/li/1298723) Amano@怒Ｍが通る(@do_M_gaToru)さんのまとめ
 

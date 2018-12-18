@@ -19,8 +19,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 
 ## 12:00-12:45
-
-- [【C+D】これが私の(コミュニティでの)生きる道](https://speakerdeck.com/yangping0211/koregasi-false-komiyuniteidefalse-sheng-kirudao) Youhei Shibata・まーや
+- [【C+D】これが私の（コミュニティでの）生きる道](https://speakerdeck.com/yangping0211/jjug-ccc-2018-fall) Youhei Shibata&まーや
 - [【E+F】俺が好きなのはJavaだけどJavaじゃない ～虎の穴でのJava活用について～](https://speakerdeck.com/toranoana/an-gahao-kinafalsehajavadakedojavaziyanai-hu-falsexue-defalsejavahuo-yong-nituite) 株式会社虎の穴
 
 

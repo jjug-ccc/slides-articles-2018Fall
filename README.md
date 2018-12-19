@@ -67,6 +67,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [JJUG CCC 2018 Fall で発表しました](http://acro-engineer.hatenablog.com/entry/2018/12/17/110000) Taste of Tech Topics
 - [「JJUG CCC 2018 Fall」に行ってきました - 登壇編](https://mdstoy.hatenablog.com/entry/2018/12/17/001005) Toy と帽子と ADP BE
 - [「JJUG CCC 2018 Fall」に行ってきました - 参加編](https://mdstoy.hatenablog.com/entry/2018/12/17/235639) Toy と帽子と ADP BE
+- [「JJUG CCC 2018 Fall」に行ってきました - 登壇するには編](https://mdstoy.hatenablog.com/entry/2018/12/19/002732) Toy と帽子と ADP BE
 - [JJUG CCC 2018 Fallに行ってきました](https://takumon.com/2018/12/16/) Takumon blog
 - [JJUG CCC 2018 Fall 参加レポート](http://sunadiary.hatenablog.com/entry/2018/12/17/003904) 砂日記ばーじょん2.0
 - [JJUG ccc 2018 fall 行ってきました](http://msawady.hatenablog.com/entry/2018/12/16/235856) msawady’s learning memo

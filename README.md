@@ -14,6 +14,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 ## 11:00-11:45
 - [【A+B】モジュールグラフが作られる様子を学ぼう](https://qiita.com/opengl-8080/items/bcac846ba604a86fc4d4) opengl-8080
+- [【A+B】LINE で広告プラットフォームを Java + Golang で立ち上げた話](https://www.slideshare.net/linecorp/linejavagolang) Tokuhiro Matsuno
 - [【C+D】GraalVM超入門](https://www.slideshare.net/tamrin69/getting-started-graalvm) Kiyotaka Suzuki (@tamtam180)
 - [【G+H】マネーフォワードのアカウントアグリゲーションの現状と課題点について／Selenium WebDriverとヘッドレスChromeを用いたスクレイピング](https://speakerdeck.com/tksh_n6o/jjug-2018-fall-mf2) 株式会社マネーフォワード
 
@@ -26,6 +27,7 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 ## 13:30-14:15
 - [【A+B】IBM CloudとKubernetesでSpring Bootのマイクロサービスを簡単に！](https://speakerdeck.com/taijihagino/java-spring-boot-with-kubernetes-on-ibm-cloud) 萩野 たいじ (日本アイ・ビー・エム株式会社)
 - [【C+D】Beginning Jakarta EE, GlassFish and Payara](https://www.slideshare.net/khasunuma/beginning-jakartaeeglassfishpayara) 蓮沼 賢志(Payara Services Ltd)
+- [【G+H】生粋のKotlin LoverによるLINEのKotlinの話](https://www.slideshare.net/linecorp/kotlin-loverlinekotlin) LINE株式会社 藤原聖
 - [【E+F】思考停止しないアーキテクチャ設計](https://www.slideshare.net/kawasima/jjug-ccc-2018-fall) 川島義隆
 - [【M】（Javaから）Akkaハンズオン](https://www.slideshare.net/yugolf/akka-handson-with-java-125934401) TIS株式会社 前出祐吾
 
@@ -37,7 +39,9 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [【G+H】今こそStream API入門](https://www.slideshare.net/skrb/stream-api-125945709) 櫻庭 祐一
 
 ## 15:45-16:30
+- [【A+B】Deep dive into instanceof](https://www.slideshare.net/HiroshiSaito1/deep-dive-into-instanceof) スマートニュース株式会社 Hiroshi Saito
 - [【C+D】既存アプリケーションでKotlinを導入してみた](https://docs.google.com/presentation/d/1wTm_eSbsM2ihfz27QpSHzuRcCIhcRYKom-Vx_-FfUts/) 佐藤 慧太 (フリュー株式会社)
+- [【E+F】Java を活用したマイクロサービスのための Kubernetes 活用](https://www.slideshare.net/tyoshio2002/java-on-kubernetes-on-azure) 日本マイクロソフト株式会社 寺田佳央
 - [【G+H】Migration Guide from Java 8 to Java 11](https://www.slideshare.net/YujiKubota/migration-guide-from-java-8-to-java-11-jjug) KUBOTA Yuji
     - [Java 10: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/3afcfdac5b252bd31ae8c14b54b5d32f)
     - [Java 11: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/b37a62de579dc92d02c9483974160c67)
@@ -59,6 +63,8 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 
 ## LT(Lightning Talk)
 
+- [M3 Engineering Group](https://speakerdeck.com/m3_engineering/jjug-ccc-2018fall-m3-engineering) エムスリー株式会社 山崎聡
+- [JJUG CCC 2018 Fall 懇親会LT](https://www.slideshare.net/linecorp/jjug-ccc-2018-fall-lt) LINE株式会社 きしだなおき
 - [日本にもあるサーマータイム問題](https://qiita.com/m_mouri/items/10bd97f0dd38a966bce2) 毛利元彦
 - [Spring Web Flux を簡単に書きたい](https://www.slideshare.net/kentaromaeda581/writing-spring-webflux-more-esay-with-kotlin) 前多
 - [RESTful API (JAX-RS) 書くだけで仕様書も自動で作られていく話 with MicroProfile Open API](https://www.slideshare.net/KoheiSaito2/restful-api-jaxrs-with-microprofile-open-api) ソニーネットワークコミュニケーションズ株式会社 齋藤耕平

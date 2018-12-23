@@ -77,7 +77,14 @@ JJUG CCC 2018 Fall 登壇資料まとめ
 - [JJUG CCC 2018 (Winterでなく)Fall に参加してきた](https://mike-neck.hatenadiary.com/entry/jjug-ccc-2018-fall) mike-neckのブログ
 - [JJUG CCC 2018 Fall](http://evgeniy.hatenablog.com/entry/2018/12/17/220233) EVGENIYの日記
 - [JJUG CCC 2018 Fall( #jjug_ccc ) - セッション資料の一覧](http://d.hatena.ne.jp/chiheisen/20181215/1544897520) 地平線に行く
-
+- [JJUG CCC 2018 Fall に参加しました！！](http://tech-blog.rakus.co.jp/entry/20181218/it-event/java/jjug) RAKUS Developers Blog | ラクス エンジニアブログ
+- [JJUG CCC 2018 Fall 参加レポート](https://www.cdatablog.jp/entry/2018/12/18/175151) CData Software Blog
+- [JJUG CCC 2018 Fallにゴールド&ブーススポンサーとして参加しました](https://www.m3tech.blog/entry/jjug-ccc-2018fall) M3 Tech Blog
+- [JJUG CCC 2018 Fallで登壇しました](https://www.m3tech.blog/entry/jjug-ccc-2018fall-session) M3 Tech Blog
+- [JJUG CCC 2018 Fallに参加/パネリストをしました #jjug_ccc](https://www.sakatakoichi.com/entry/jjugccc2018fall) Fight the Future
+- [JJUG CCC 2018 Fallに参加しました](https://kazokmr.hatenablog.com/entry/2018/12/21/212809) kazokmr's Blog
+- [JJUG CCC 2018 Fallに参加してきた](https://dhirabayashi.hatenablog.com/entry/2018/12/22/235556) ごまだれ日記
+- [JJUG CCC 2018 Fall（12/15）](https://hmatsu47.hatenablog.com/entry/2018/12/23/132740) 構築中。
 
 ## togetter
 - [カサレアルのJJUG CCC 2018 Fall](https://togetter.com/li/1299277) 株式会社カサレアル(@PR_CASAREAL)さんのまとめ
